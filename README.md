@@ -1,2 +1,1 @@
-# squaressolver
-Squares Solver 
+# Square Solver
